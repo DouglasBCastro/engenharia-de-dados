@@ -1,1 +1,2 @@
 #testando otimização
+import pandas
